@@ -11,7 +11,7 @@ Customize your plots (titles, labels, legends, colors, styles).
 Save and export your visualizations.
 
 # 🚀 Getting Started
-## Prerequisites
+# Prerequisites
 Python 3.7+
 matplotlib
 (Optional) numpy and pandas for data manipulation
@@ -21,7 +21,9 @@ Clone this repository and install the requirements:
 
 bash
 git clone https://github.com/Dileepchy/Matplotlib-practice.git
+
 cd matplotlib-tutorial-python
+
 pip install -r requirements.txt
 
 # Or install Matplotlib directly:
@@ -41,7 +43,7 @@ pip install matplotlib
 
 05-Saving-Plots.ipynb: Exporting your visualizations.
 
-##  🖼️ Example Plot
+#  🖼️ Example Plot
 ![Example Line Plot](images/example_line Features
 
 Beginner-friendly explanations and code examples.
