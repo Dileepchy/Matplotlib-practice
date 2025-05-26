@@ -20,7 +20,7 @@ matplotlib
 Clone this repository and install the requirements:
 
 bash
-git clone https://github.com/your-username/matplotlib-tutorial-python.git
+git clone https://github.com/Dileepchy/Matplotlib-practice.git
 cd matplotlib-tutorial-python
 pip install -r requirements.txt
 
@@ -31,15 +31,15 @@ pip install matplotlib
 
 # 📚 Tutorial Contents
 
-# 01-Introduction.ipynb: Introduction to Matplotlib and its basic components.
+01-Introduction.ipynb: Introduction to Matplotlib and its basic components.
 
-# 02-Line-Plots.ipynb: Creating and customizing line plots.
+02-Line-Plots.ipynb: Creating and customizing line plots.
 
-# 03-Bar-Scatter-Histogram.ipynb: Bar charts, scatter plots, and histograms.
+03-Bar-Scatter-Histogram.ipynb: Bar charts, scatter plots, and histograms.
 
-# 04-Customization.ipynb: Titles, labels, legends, colors, and styles.
+04-Customization.ipynb: Titles, labels, legends, colors, and styles.
 
-# 05-Saving-Plots.ipynb: Exporting your visualizations.
+05-Saving-Plots.ipynb: Exporting your visualizations.
 
 ##  🖼️ Example Plot
 ![Example Line Plot](images/example_line Features
