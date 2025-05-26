@@ -1,8 +1,12 @@
-# Matplotlib Tutorial in Python
+# Matplotlib and Pyplot Tutorial in Python
+
 Welcome to the Matplotlib Tutorial in Python repository!
 The DataCamp Matplotlib Tutorial inspires this project and aims to provide hands-on examples, code snippets, and explanations for mastering data visualization using Matplotlib.
 
+matplotlib.pyplot is a collection of functions that make matplotlib work like MATLAB. Each pyplot function makes some change to a figure: e.g., creates a figure, creates a plotting area in a figure, plots some lines in a plotting area, decorates the plot with labels, etc.
+
 # 📊 Overview
+
 Matplotlib is the most popular Python library for creating static, animated, and interactive visualizations. This repository will help you:
 
 Understand the basics of Matplotlib.
@@ -11,12 +15,15 @@ Customize your plots (titles, labels, legends, colors, styles).
 Save and export your visualizations.
 
 # 🚀 Getting Started
+
 # Prerequisites
+
 Python 3.7+
 matplotlib
 (Optional) numpy and pandas for data manipulation
 
 # Installation
+
 Clone this repository and install the requirements:
 
 bash
@@ -43,7 +50,8 @@ pip install matplotlib
 
 05-Saving-Plots.ipynb: Exporting your visualizations.
 
-#  🖼️ Example Plot
+# 🖼️ Example Plot
+
 ![Example Line Plot](images/example_line Features
 
 Beginner-friendly explanations and code examples.
@@ -52,12 +60,14 @@ Practical exercises and solutions.
 Tips for effective data visualization.
 
 # 🤝 Contributing
+
 Contributions are welcome!
 Feel free to fork the repository, open issues, or submit pull requests to improve the content.
 
 # 📄 License
+
 This project is licensed under the MIT License.
 
 # 📬 Contact
-For questions or suggestions, please open an issue or contact dileepchau3@gmail.com.
 
+For questions or suggestions, please open an issue or contact dileepchau3@gmail.com.
